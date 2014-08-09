@@ -1,0 +1,9 @@
+Package: in.fourplex.flextweak
+Name: flextweak
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: show FLEXManager in Mail.app
+Maintainer: hewigovens
+Author: hewigovens
+Section: Tweaks
